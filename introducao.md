@@ -84,3 +84,16 @@ Essas pessoas são os mestres de bens físicos e inovação dentro das restriç�
 "O objetivo é estudar tanto a função e forma, e a ligação entre o produto, o usuário, eo meio ambiente."
 
 <img src="https://startupsthisishowdesignworks.com/img/pantonChair.jpg" />
+
+##Metodologias comuns do design de interação
+
+#Orientado a meta
+
+#Usabilidade
+
+#5 dimensoes
+
+#Psicologia cognitiva
+
+#Diretrizes de interface humana
+
