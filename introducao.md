@@ -72,3 +72,15 @@ Dependendo da finalidade do produto, UX pode também envolver disciplinas de des
 O objectivo do desenho UX é para criar uma interacção, de forma simples, e útil entre um utilizador e um produto, quer se trate de hardware ou software.
 
 Tal como acontece com design de interface do usuário, a experiência do usuário de design se concentra em criar interações projetadas para atender ou ajudar objetivos e necessidades de um usuário 
+
+**designer industrial**
+
+Designers industriais criar produtos físicos designados para de consumo de massa por milhões de pessoas.
+
+Motorcycles, iPods, escovas de dentes, e mesinhas de cabeceira são todos concebidos por designers industriais.
+
+Essas pessoas são os mestres de bens físicos e inovação dentro das restrições de linhas de produção e máquinas.
+
+"O objetivo é estudar tanto a função e forma, e a ligação entre o produto, o usuário, eo meio ambiente."
+
+<img src="https://startupsthisishowdesignworks.com/img/pantonChair.jpg" />
