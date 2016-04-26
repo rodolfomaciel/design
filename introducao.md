@@ -38,3 +38,12 @@ Antes da adopção generalizada de computadores, software e web, praticamente to
 
 Designers de mídia impressa são tipicamente mestres da tipografia, ilustração e processos de impressão tradicionais, como o linotipo ou a máquina de tipografia , um método de impressão de 500 anos de idade, que recuperou a popularidade nos últimos anos para a sua feitos à mão e toque tradicional.
 
+* Interação
+
+Designers de interação, por outro lado, o foco em produtos digitais e design de software interativo.
+
+Alguns exemplos incluem aplicativos da web como Facebook e Pinterest , aplicações móveis como Tweetbot e sistemas operacionais como o OS X.
+
+Enquanto o design gráfico é para ser observado, design de interação ajuda os humanos a experiência ou manipular software ou interface com hardware baseado em tela, a fim de alcançar metas específicas - verificar e-mail, retirar dinheiro de um caixa eletrônico , ou "Gostar" de uma página web (como este!)
+
+<img src="http://startupsthisishowdesignworks.com/img/ux-verplank.jpg" alt="Interação"/>
