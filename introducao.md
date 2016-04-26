@@ -8,6 +8,8 @@ O design é muitas coisas, executados de muitas maneiras diferentes, mas a funç
 
 Quer se trate de plantas, uma interface inteligente, um folheto ou uma cadeira - design pode ajudar a resolver um problema visual ou física.
 
+Objetified: [link](https://vimeo.com/12793996)
+
 ##Os Dez Principios do Bom Design
 
 * Inovação
@@ -56,6 +58,8 @@ User Interface (UI) é o design de software ou sites com o foco na experiência 
 O objetivo do design de interface do usuário é fazer com que a interação do usuário o mais simples e eficiente possível.
 
 Um bom design de interface do usuário coloca ênfase em metas e completar tarefas, e um bom design de interface do usuário não chama mais a atenção para si do que fazer cumprir os objetivos dos usuários.
+
+<img src="https://startupsthisishowdesignworks.com/img/tapbots.jpg" />
 
 "O processo de design deve equilibrar a funcionalidade técnica e elementos visuais para criar um sistema que não só está operacional, mas também útil e adaptável à evolução das necessidades do usuário."
 
