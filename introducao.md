@@ -87,13 +87,13 @@ Essas pessoas são os mestres de bens físicos e inovação dentro das restriç�
 
 ##Metodologias comuns do design de interação
 
-#Orientado a meta
+###Orientado a meta
 
-#Usabilidade
+###Usabilidade
 
-#5 dimensoes
+###5 dimensoes
 
-#Psicologia cognitiva
+###Psicologia cognitiva
 
-#Diretrizes de interface humana
+###Diretrizes de interface humana
 
