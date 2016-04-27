@@ -85,15 +85,25 @@ Essas pessoas são os mestres de bens físicos e inovação dentro das restriç�
 
 <img src="https://startupsthisishowdesignworks.com/img/pantonChair.jpg" />
 
+##Design de Interação
+
+Criar uma comunicacao significativa entre pessoas e a interface dos sistemas.
+
 ##Metodologias comuns do design de interação
 
 ###Orientado a meta
 
+
 ###Usabilidade
+
+
 
 ###5 dimensoes
 
+
 ###Psicologia cognitiva
 
+
 ###Diretrizes de interface humana
+
 
