@@ -117,7 +117,11 @@ Criar uma comunicacao significativa entre pessoas e a interface dos sistemas.
 * Elementos comparativos
 * Affordance
 
-###Diretrizes de interface humana
-*
+###Processo do design de interação
+* Estragtegias
+  * Objetivos do utilizador
+  * Qual o problema a ser resolvido
+* Esboço da interface
+* Protótipo
 
 
