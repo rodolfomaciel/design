@@ -92,18 +92,32 @@ Criar uma comunicacao significativa entre pessoas e a interface dos sistemas.
 ##Metodologias comuns do design de interação
 
 ###Orientado a meta
-
+* Design primeiro, programação depois.
+* Separar o design da programação
+* Satisfação do utilizador
+* Definir bem o utilizador alvo
+* Comunicação aberta
 
 ###Usabilidade
-
-
+* Compreensivel
+* Flexivel
+* Suporte ao utilizador
+* Satisfação do utilizador
+* Controlavel
 
 ###5 dimensoes
-
+* Palavras
+* Imagens
+* Espaço
+* Tempo
+* Comportamento
 
 ###Psicologia cognitiva
-
+* Modelos mentais
+* Elementos comparativos
+* Affordance
 
 ###Diretrizes de interface humana
+*
 
 
