@@ -15,5 +15,19 @@ Diferentes tipos de idealização
 - Missão Impossível
  - Ideias quase impossiveis de executar
  - Exemplo: projeto Loon Google que visa levar internet a zona rurl atraves de baloes
+ 
+Ciclo de Nir Eyal
+Desenvolver produtos como hábitos
+- acionador
+- ação
+- recompensa
+- investimento
+
+Tipos de produtos
+- Anestesico
+ - Ele elimina uma dor presente; o cliente busca o produto.
+- Vitamina
+ - É o produto que as pessoas sabem que faz bem mas procrastinam em adquirir.
+
 
 #Validação
